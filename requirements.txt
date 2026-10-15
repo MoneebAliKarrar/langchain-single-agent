@@ -1,0 +1,8 @@
+
+langchain>=1.0,<2.0
+langchain-google-genai>=3.0
+langchain-tavily
+streamlit
+requests
+python-dotenv
+certifi
